@@ -5,8 +5,8 @@ NN/
 .idea/
 
 # images
-.jpg
-.png
+*.jpg
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
